@@ -1,6 +1,5 @@
 # Python circleci 2.0 configuration file
-
-version:2
+version: 2
 jobs:
   build:
     docker:
